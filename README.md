@@ -1,6 +1,6 @@
-# Python Programming (Learning)
+# Python Programming (Learning & Practice Questions)
 
-## Basic Print Python Learning Practice Questions
+## Basic Print 
 
 #### 1. *Write a Python program to print the following string in a specific format (see the output).*  
 Output :
