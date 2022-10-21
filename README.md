@@ -239,7 +239,8 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 #
 
 
-Contributing 💡
+### Contributing 💡
+
 If you want to contribute to this project and make it better with new Question and their Solutions, your pull request is most welcomed. If you find any issue just put it in the repository issue section.
 
 #
