@@ -69,7 +69,8 @@ Marks of all three subjects will be entered through the keyboard. WAP to tell wh
 <li>Enter code w for withdraw.</li>
 <li>Enter code d for deposit.</li>
 <li>Enter code c for checking balance.</li>
-#### Note: You can withdraw an amount only if balance is greater than or equal to 500 and withdrawing amount should be less than balance.
+
+Note: You can withdraw an amount only if balance is greater than or equal to 500 and withdrawing amount should be less than balance.
 
 Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/2%20If%20else)
 
