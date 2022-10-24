@@ -258,6 +258,9 @@ Expected Output : ['Green', 'White', 'Black']
 #### 9. Write a Python program to find the second largest number in a list. 
 #### 10. Write a Python program to get unique values from a list.
 
+
+Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/5%20List)
+
 #
 
 ### Contributing 💡
