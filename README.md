@@ -239,6 +239,26 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 
 #
 
+## List Practice Questions
+
+#### 1. Write a Python program to sum all the items in a list. 
+#### 2. Write a Python program to get the largest number from a list
+#### 3. Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.
+Sample List : ['abc', 'xyz', 'aba', '1221']
+Expected Result : 2
+
+#### 4. Write a Python program to remove duplicates from a list.
+#### 5. Write a Python program to check a list is empty or not.
+#### 6. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
+Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+Expected Output : ['Green', 'White', 'Black']
+
+#### 7. Write a Python program to print the numbers of a specified list after removing even numbers from it. 
+#### 8. Write a Python program to convert a list of characters into a string. 
+#### 9. Write a Python program to find the second largest number in a list. 
+#### 10. Write a Python program to get unique values from a list.
+
+#
 
 ### Contributing 💡
 
