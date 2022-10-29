@@ -280,7 +280,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 #### 13. Write a Python program to find maximum and the minimum value in a set.
 #### 14. Write a Python program to find the length of a set
 
-Click Here For [Solution]
+Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/6%20Set)
 
 
 ### Contributing 💡
