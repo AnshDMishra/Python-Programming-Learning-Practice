@@ -244,13 +244,13 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 #### 1. Write a Python program to sum all the items in a list. 
 #### 2. Write a Python program to get the largest number from a list
 #### 3. Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.
-Sample List : ['abc', 'xyz', 'aba', '1221']
+Sample List : ['abc', 'xyz', 'aba', '1221'] <br>
 Expected Result : 2
 
 #### 4. Write a Python program to remove duplicates from a list.
 #### 5. Write a Python program to check a list is empty or not.
 #### 6. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
-Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']<br>
 Expected Output : ['Green', 'White', 'Black']
 
 #### 7. Write a Python program to print the numbers of a specified list after removing even numbers from it. 
@@ -258,7 +258,30 @@ Expected Output : ['Green', 'White', 'Black']
 #### 9. Write a Python program to find the second largest number in a list. 
 #### 10. Write a Python program to get unique values from a list.
 
+
+Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/5%20List)
+
 #
+
+## Set Practice Questions
+
+#### 1. Write a Python program to create a set. 
+#### 2. Write a Python program to iteration over sets.
+#### 3. Write a Python program to add member(s) in a set.
+#### 4. Write a Python program to remove item(s) from set
+#### 5. Write a Python program to remove an item from a set if it is present in the set.
+#### 6. Write a Python program to create an intersection of sets.
+#### 7. Write a Python program to create a union of sets. 
+#### 8. Write a Python program to create set difference. 
+#### 9. Write a Python program to create a symmetric difference.
+#### 10. Write a Python program to create a shallow copy of sets.
+#### 11. Write a Python program to clear a set.
+#### 12. Write a Python program to use of frozensets.
+#### 13. Write a Python program to find maximum and the minimum value in a set.
+#### 14. Write a Python program to find the length of a set
+
+Click Here For [Solution]
+
 
 ### Contributing 💡
 
