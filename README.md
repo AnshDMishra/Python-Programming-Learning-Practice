@@ -283,6 +283,60 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/6%20Set)
 
 
+#
+
+## Dict Practice Questions
+
+#### 1. Write a Python script to sort (ascending and descending) a dictionary by value. 
+#### 2. Write a Python script to add a key to a dictionary
+Sample Dictionary : {0: 10, 1: 20} <br>
+Expected Result : {0: 10, 1: 20, 2: 30}
+
+#### 3. Write a Python script to concatenate following dictionaries to create a new one.Sample Dictionary :
+dic1={1:10, 2:20}<br>
+dic2={3:30, 4:40}<br>
+dic3={5:50,6:60}<br>
+Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+#### 4. Write a Python script to check if a given key already exists in a dictionary. 
+
+#### 5. Write a Python program to iterate over dictionaries using for loops.
+#### 6. Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
+Sample Dictionary ( n = 5) :<br>
+Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+
+#### 7. Write a Python script to print a dictionary where the keys are numbers between 1 and 15 (both included) and the values are square of keys. 
+Sample Dictionary
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81, 10: 100, 11: 121, 12: 144, 13: 169, 14: 196, 15: 225}
+
+#### 8. Write a Python script to merge two Python dictionaries.
+
+#### 9. Write a Python program to iterate over dictionaries using for loops. 
+#### 10. Write a Python program to remove a key from a dictionary. 
+#### 11. Write a Python program to map two lists into a dictionary. 
+#### 12. Write a Python program to sort a dictionary by key. 
+#### 13. Write a Python program to remove duplicates(based on values) from Dictionary.
+#### 14. Write a Python program to check a dictionary is empty or not. 
+#### 15. Write a Python program to combine two dictionary adding values for common keys.
+d1 = {'a': 100, 'b': 200, 'c':300}<br>
+d2 = {'a': 300, 'b': 200, 'd':400}<br>
+Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+#### 16. Write a Python program to print a dictionary in table format.
+
+#### 17. Write a Python program to get the top three items in a shop.
+Sample data: {'item1': 45.50, 'item2':35, 'item3': 41.30, 'item4':55, 'item5': 24}
+Expected Output:<br>
+item4 55<br>
+item1 45.5<br>
+item3 41.3<br>
+
+#### 18. Write a Python program to match key values in two dictionaries. 
+Sample dictionary: {'key1': 1, 'key2': 3, 'key3': 2}, {'key1': 1, 'key2': 2}<br>
+Expected output: key1: 1 is present in both x and y
+
+
+
 ### Contributing 💡
 
 If you want to contribute to this project and make it better with new Question and their Solutions, your pull request is most welcomed. If you find any issue just put it in the repository issue section.
