@@ -336,6 +336,27 @@ Sample dictionary: {'key1': 1, 'key2': 3, 'key3': 2}, {'key1': 1, 'key2': 2}<br>
 Expected output: key1: 1 is present in both x and y
 
 
+#
+
+## Function Practice Questions
+
+#### 1. Write the function to find that entered number even or odd.
+#### 2. Write the function to print the entered number in reverse order.
+#### 3.     Write the function to find out whether entered number is prime or not.
+#### 4.     Write the function to calculate the factorial of a entered number.
+#### 5.     Write the function to print the Fibonacci series. The number of terms for Fibonacci series will be entered through keyboard.
+#### 6.     Write the function to find entered number through keyboard is whether Armstrong or not.
+#### 7.     Write a function to find entered number through keyboard is whether palindrome or not.
+#### 8.     Write a function that takes a number entered through keyboard and find whether it is positive or negative.
+#### 9.     Write a function that takes a number entered through keyboard and find whether it isArmstrong number or not.
+#### 10.  Write a function that takes two numbers entered through keyboard and return greatest of them.
+#### 11.  Write a function that takes numbers entered through keyboard and return the sum of  digits of entered numbers.
+#### 12.  Write a function that takes two numbers a and b, entered through keyboard and return the value of a<sup>b.
+
+#
+
+
+
 
 ### Contributing 💡
 
