@@ -1,6 +1,6 @@
 # Python Programming (Learning & Practice Questions)
 
-## Basic Print 
+## 💻 Basic "Print" 💻
 
 #### 1. *Write a Python program to print the following string in a specific format (see the output).*  
 Output :
@@ -21,7 +21,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 
 #
 
-## If else  Practice Questions
+## 💻 If else  Practice Questions
 
 #### 1.	An Integer is Input through keyboard. Write a program to find whether it is odd or even number.
 
@@ -77,7 +77,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 
 #
 
-## Loop Practice Questions
+## 💻 Loop Practice Questions
 
 #### 1. WAP to print all even and odd numbers between 1 and 100;
 
@@ -133,7 +133,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/3%20Loop)
 
 #
-## String Practice Questions
+## 💻 String Practice Questions
 
 
 #### 1. Write a Python program to calculate the length of a string.  
@@ -239,7 +239,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 
 #
 
-## List Practice Questions
+## 💻 List Practice Questions
 
 #### 1. Write a Python program to sum all the items in a list. 
 #### 2. Write a Python program to get the largest number from a list
@@ -263,7 +263,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 
 #
 
-## Set Practice Questions
+## 💻 Set Practice Questions
 
 #### 1. Write a Python program to create a set. 
 #### 2. Write a Python program to iteration over sets.
@@ -285,7 +285,7 @@ Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Lear
 
 #
 
-## Dict Practice Questions
+## 💻 Dict Practice Questions
 
 #### 1. Write a Python script to sort (ascending and descending) a dictionary by value. 
 #### 2. Write a Python script to add a key to a dictionary
@@ -338,7 +338,7 @@ Expected output: key1: 1 is present in both x and y
 
 #
 
-## Function Practice Questions
+## 💻 Function Practice Questions
 
 #### 1. Write the function to find that entered number even or odd.
 #### 2. Write the function to print the entered number in reverse order.
@@ -361,13 +361,21 @@ Expected output: key1: 1 is present in both x and y
 ### Contributing 💡
 
 If you want to contribute to this project and make it better with new Question and their Solutions, your pull request is most welcomed. If you find any issue just put it in the repository issue section.
+<br>
+or
+<br>
+<h5> If you have any suggetions or advice please feel free to connect me:--
+
+<a href="mailto:anshvnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/anshdmishra" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+</h5>
+
 
 #
 
-Show some ❤️ by starring ⭐️ some repositories !!
+#### Show some ❤️ by starring ⭐️ some repositories !!
 
 #
-
 
 
 
