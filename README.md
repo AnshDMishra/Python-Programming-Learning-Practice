@@ -352,7 +352,7 @@ Expected output: key1: 1 is present in both x and y
 #### 10.  Write a function that takes two numbers entered through keyboard and return greatest of them.
 #### 11.  Write a function that takes numbers entered through keyboard and return the sum of  digits of entered numbers.
 #### 12.  Write a function that takes two numbers a and b, entered through keyboard and return the value of a<sup>b.
-
+Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/8%20Function)
 #
 
 
