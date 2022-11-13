@@ -335,6 +335,7 @@ item3 41.3<br>
 Sample dictionary: {'key1': 1, 'key2': 3, 'key3': 2}, {'key1': 1, 'key2': 2}<br>
 Expected output: key1: 1 is present in both x and y
 
+Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/7%20Dict)
 
 #
 
@@ -353,6 +354,7 @@ Expected output: key1: 1 is present in both x and y
 #### 11.  Write a function that takes numbers entered through keyboard and return the sum of  digits of entered numbers.
 #### 12.  Write a function that takes two numbers a and b, entered through keyboard and return the value of a<sup>b.
 Click Here For [Solution](https://github.com/AnshDMishra/Python-Programming-Learning-Practice/tree/main/8%20Function)
+
 #
 
 
